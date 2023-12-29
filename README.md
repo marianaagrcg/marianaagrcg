@@ -1,8 +1,8 @@
 ### Hello everyone, Mariana here!👋
-
+I am a passionate student of computer technologies at Tecnológico de Monterrey. I am ready to learn new things and share my knowledge with everyone!
 ## About Me 👩🏽‍💻
-- My projects are at [Mariana Garcia](https://www.linkedin.com/in/mariana-alejandra-garc%C3%ADa-g%C3%B3mez-b0547624a/)
--
+- 💻 All my projects are at [Mariana Garcia](https://www.linkedin.com/in/mariana-alejandra-garc%C3%ADa-g%C3%B3mez-b0547624a/) 💻
+- 📫 Reach me through marianagarciagomez2@gmail.com
 -
 
 <!--
