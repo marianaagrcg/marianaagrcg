@@ -1,7 +1,7 @@
 ### Hello everyone, Mariana here!👋
 
 ## About Me 👩🏽‍💻
-- My projects are at <a href = "https://www.linkedin.com/in/mariana-alejandra-garc%C3%ADa-g%C3%B3mez-b0547624a/" Mariana García>
+- My projects are at [Mariana Garcia](https://www.linkedin.com/in/mariana-alejandra-garc%C3%ADa-g%C3%B3mez-b0547624a/)
 -
 -
 
