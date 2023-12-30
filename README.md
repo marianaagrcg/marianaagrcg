@@ -3,7 +3,7 @@ I am a passionate student of computer technologies at Tecnológico de Monterrey.
 ## About Me 👩🏽‍💻
 - 💻 All my projects are at [Mariana Garcia](https://www.linkedin.com/in/mariana-alejandra-garc%C3%ADa-g%C3%B3mez-b0547624a/) 💻
 - 📫 Reach me through marianagarciagomez2@gmail.com
--
+
 
 <!--
 **marianaagrcg/marianaagrcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
