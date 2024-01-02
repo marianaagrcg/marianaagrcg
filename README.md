@@ -4,6 +4,7 @@ I am a passionate student of computer technologies at Tecnológico de Monterrey.
 - 💻 All my projects are at [Mariana Garcia](https://www.linkedin.com/in/mariana-alejandra-garc%C3%ADa-g%C3%B3mez-b0547624a/) 💻
 - 📫 Reach me through marianagarciagomez2@gmail.com
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianaagrcg&label=Profile%20views&color=0e75b6&style=flat" alt="marianaagrcg" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
